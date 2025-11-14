@@ -1,0 +1,180 @@
+Uri: https://itlebed.ru/
+File Name: C:\Downloaded Web Sites\itlebed.ru\index.htm
+Content Type: text/html
+
+Uri: https://itlebed.ru/privacy
+File Name: C:\Downloaded Web Sites\itlebed.ru\privacy.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/104256470
+File Name: C:\Downloaded Web Sites\itlebed.ru\watch\104256470
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\itlebed.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\itlebed.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\itlebed.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menu-widgeticons-1.0.min.css
+File Name: C:\Downloaded Web Sites\itlebed.ru\css\tilda-menu-widgeticons-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\itlebed.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-widgeticons-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-menu-widgeticons-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-tooltip-1.1.min.js
+File Name: C:\Downloaded Web Sites\itlebed.ru\js\tilda-zero-tooltip-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3032-6565-4234-b965-633832343563/Arrow_1_3.svg
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3032-6565-4234-b965-633832343563\Arrow_1_3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3165-3336-4338-b864-353263613533/gilroy-semibold.woff
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3165-3336-4338-b864-353263613533\gilroy-semibold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3337-3862-4533-a161-306162646266/gilroy-bold.woff
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3337-3862-4533-a161-306162646266\gilroy-bold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3637-3161-4235-a337-346664356631/Group_3_2.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3637-3161-4235-a337-346664356631\Group_3_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3663-6432-4438-b739-326166666437/Group_3_2.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3663-6432-4438-b739-326166666437\Group_3_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3839-6366-4362-b263-613263656561/gilroy-medium.woff
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3839-6366-4362-b263-613263656561\gilroy-medium.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6138-6466-4832-b432-643031316464/gilroy-regular.woff
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild6138-6466-4832-b432-643031316464\gilroy-regular.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6361-3861-4666-a635-363435616566/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild6361-3861-4666-a635-363435616566\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6639-3866-4461-a364-383431623134/favicon.svg
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild6639-3866-4461-a364-383431623134\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/ws/project10090431/tilda-blocks-page52677399.min.css?t=1762423633
+File Name: C:\Downloaded Web Sites\itlebed.ru\ws\project10090431\tilda-blocks-page52677399.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project10090431/tilda-blocks-page52677399.min.js?t=1762423633
+File Name: C:\Downloaded Web Sites\itlebed.ru\ws\project10090431\tilda-blocks-page52677399.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project10090431/tilda-blocks-page52735189.min.css?t=1761143991
+File Name: C:\Downloaded Web Sites\itlebed.ru\ws\project10090431\tilda-blocks-page52735189.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project10090431/tilda-blocks-page52735189.min.js?t=1761143991
+File Name: C:\Downloaded Web Sites\itlebed.ru\ws\project10090431\tilda-blocks-page52735189.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.com/tild3361-6337-4638-b165-353738613130/-/resize/20x/Group_29_1_1.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3361-6337-4638-b165-353738613130\-\resize\20x\Group_29_1_1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3661-6533-4261-b565-323433366363/-/resize/20x/Mask_group_28.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3661-6533-4261-b565-323433366363\-\resize\20x\Mask_group_28.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3830-3065-4231-b630-316665383533/-/resize/20x/Group_147.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3830-3065-4231-b630-316665383533\-\resize\20x\Group_147.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3830-6233-4361-b261-663636313935/-/resize/20x/Group_146.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3830-6233-4361-b261-663636313935\-\resize\20x\Group_146.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3838-3564-4332-a236-336564323062/-/resize/20x/Mask_group_26.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild3838-3564-4332-a236-336564323062\-\resize\20x\Mask_group_26.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6163-3937-4135-b934-356135363866/-/resize/20x/Group_29.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild6163-3937-4135-b934-356135363866\-\resize\20x\Group_29.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6535-3464-4637-a536-383763356136/-/resizeb/20x/telegram_1.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild6535-3464-4637-a536-383763356136\-\resizeb\20x\telegram_1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6561-3434-4332-b463-613537356139/-/resize/20x/Ellipse_7.png
+File Name: C:\Downloaded Web Sites\itlebed.ru\tild6561-3434-4332-b463-613537356139\-\resize\20x\Ellipse_7.png
+Content Type: image/png
+
